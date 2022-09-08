@@ -24,4 +24,4 @@ There are 2 ways to build the Android application. Android studio or command lin
 1. Open the file **/app/build.gradle**.
 2. Locate the versionName String key.
 3. Change the value of versionName to newer version. At the time of writing this readme, the version was 1.5.
-4. Build the app according to [How to build the app](#how-to-build-the app).
+4. Build the app according to [How to build the app].
